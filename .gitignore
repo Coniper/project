@@ -1,0 +1,14 @@
+# Local build outputs
+*.o
+*.obj
+*.gch
+*.out
+a.out
+build/
+dist/
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+.DS_Store
