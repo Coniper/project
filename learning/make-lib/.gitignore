@@ -1,0 +1,13 @@
+# Generated libraries and object files
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+a.out
+build/
+
+# Editor and temporary files
+*.swp
+*~
+.DS_Store
